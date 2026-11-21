@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Compact bean-to-cup espresso machine">
+  <rect width="500" height="500" fill="#e7d6c4"/>
+  <rect x="0" y="400" width="500" height="100" fill="#dcc8b2"/>
+  <path d="M0 400 H500" stroke="#23190f" stroke-width="2" opacity="0.25"/>
+  <ellipse cx="250" cy="410" rx="140" ry="12" fill="#23190f" opacity="0.15"/>
+  <!-- hopper lid -->
+  <path d="M178 92 H322 L316 70 Q314 62 306 62 H194 Q186 62 184 70 Z" fill="#9b8b78" stroke="#23190f" stroke-width="3" stroke-linejoin="round"/>
+  <!-- body -->
+  <rect x="140" y="92" width="220" height="316" rx="18" fill="#2f2924" stroke="#23190f" stroke-width="3"/>
+  <rect x="150" y="102" width="20" height="296" rx="8" fill="#3d362f"/>
+  <!-- bean window -->
+  <rect x="190" y="106" width="120" height="34" rx="6" fill="#6b4126" stroke="#23190f" stroke-width="2.5"/>
+  <g fill="#3e2416">
+    <ellipse cx="206" cy="124" rx="7" ry="5"/><ellipse cx="224" cy="118" rx="7" ry="5"/><ellipse cx="243" cy="126" rx="7" ry="5"/>
+    <ellipse cx="262" cy="119" rx="7" ry="5"/><ellipse cx="281" cy="125" rx="7" ry="5"/><ellipse cx="297" cy="118" rx="6" ry="4.5"/>
+  </g>
+  <!-- display -->
+  <rect x="196" y="160" width="108" height="66" rx="6" fill="#1b1612" stroke="#58504a" stroke-width="2"/>
+  <rect x="206" y="172" width="40" height="18" rx="3" fill="#d6a056"/>
+  <rect x="254" y="172" width="40" height="18" rx="3" fill="#58504a"/>
+  <rect x="206" y="198" width="40" height="18" rx="3" fill="#58504a"/>
+  <rect x="254" y="198" width="40" height="18" rx="3" fill="#58504a"/>
+  <!-- spout -->
+  <rect x="222" y="244" width="56" height="34" rx="6" fill="#c8c4bb" stroke="#23190f" stroke-width="2.5"/>
+  <rect x="236" y="278" width="8" height="10" fill="#9a958c" stroke="#23190f" stroke-width="2"/>
+  <rect x="256" y="278" width="8" height="10" fill="#9a958c" stroke="#23190f" stroke-width="2"/>
+  <!-- recess -->
+  <rect x="180" y="288" width="140" height="96" rx="8" fill="#1f1a16"/>
+  <!-- cup -->
+  <path d="M222 336 H278 L273 372 Q272 378 266 378 H234 Q228 378 227 372 Z" fill="#fbf8f2" stroke="#23190f" stroke-width="2.5" stroke-linejoin="round"/>
+  <ellipse cx="250" cy="336" rx="28" ry="4.5" fill="#c08a55" stroke="#23190f" stroke-width="2"/>
+  <path d="M240 296 V330 M260 296 V330" stroke="#6b4126" stroke-width="3" stroke-linecap="round"/>
+  <!-- drip tray -->
+  <rect x="170" y="380" width="160" height="22" rx="4" fill="#c8c4bb" stroke="#23190f" stroke-width="2.5"/>
+  <path d="M184 391 H316" stroke="#23190f" stroke-width="1.5" stroke-dasharray="4 5"/>
+  <!-- logo plate -->
+  <circle cx="330" cy="120" r="7" fill="none" stroke="#d6a056" stroke-width="2"/>
+  <path d="M323 120a7 7 0 0 1 14 0z" fill="#d6a056"/>
+</svg>

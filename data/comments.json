@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c-0101",
+    "page": "plans.html",
+    "name": "Sandra M.",
+    "text": "Quick question: on your home page the Team plan says CHF 19 per person, here it says 22. Which one is right? We're 14 people and comparing offers right now.",
+    "created_at": "2026-11-12T08:41:00Z"
+  },
+  {
+    "id": "c-0102",
+    "page": "plans.html",
+    "name": "Reto",
+    "text": "we've had the bean-to-cup S for about a year now, 11 people. no complaints, jonas fixed the milk thing within the same afternoon",
+    "created_at": "2026-11-09T14:05:00Z"
+  },
+  {
+    "id": "c-0201",
+    "page": "guides/descaling.html",
+    "name": "Tobias K.",
+    "text": "FYI the link to this guide on the plans page (under \"who cleans the machine\") goes to a 404. found it through google instead",
+    "created_at": "2026-11-17T10:22:00Z"
+  },
+  {
+    "id": "c-0202",
+    "page": "guides/descaling.html",
+    "name": "Ines",
+    "text": "Worked fine, took about 45 min with the two rinses. Thanks for the clear steps",
+    "created_at": "2026-11-10T16:48:00Z"
+  },
+  {
+    "id": "c-0301",
+    "page": "guides/how-much-coffee.html",
+    "name": "Marco Bernasconi",
+    "text": "Do you also deliver to Winterthur? We have a second office there with around 15 people and would like the same coffee in both places.",
+    "created_at": "2026-11-19T07:56:00Z"
+  },
+  {
+    "id": "c-0302",
+    "page": "guides/how-much-coffee.html",
+    "name": "Julia",
+    "text": "this matches us pretty well, we're 20 ppl and go through around 7 kg a month. decaf is more like 1 in 5 cups here tho",
+    "created_at": "2026-11-14T12:30:00Z"
+  }
+]

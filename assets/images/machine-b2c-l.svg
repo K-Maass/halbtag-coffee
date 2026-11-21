@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Large bean-to-cup machine with two grinders and a milk fridge">
+  <rect width="500" height="500" fill="#e3e1d0"/>
+  <rect x="0" y="404" width="500" height="96" fill="#d6d3bd"/>
+  <path d="M0 404 H500" stroke="#23190f" stroke-width="2" opacity="0.25"/>
+  <ellipse cx="240" cy="414" rx="200" ry="13" fill="#23190f" opacity="0.15"/>
+  <!-- hoppers -->
+  <path d="M110 92 H200 L195 66 Q193 58 185 58 H125 Q117 58 115 66 Z" fill="#9b8b78" stroke="#23190f" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M214 92 H304 L299 66 Q297 58 289 58 H229 Q221 58 219 66 Z" fill="#9b8b78" stroke="#23190f" stroke-width="3" stroke-linejoin="round"/>
+  <!-- body -->
+  <rect x="84" y="92" width="246" height="320" rx="18" fill="#2f2924" stroke="#23190f" stroke-width="3"/>
+  <rect x="94" y="102" width="18" height="300" rx="8" fill="#3d362f"/>
+  <rect x="122" y="104" width="70" height="28" rx="5" fill="#6b4126" stroke="#23190f" stroke-width="2"/>
+  <rect x="226" y="104" width="70" height="28" rx="5" fill="#8a5a33" stroke="#23190f" stroke-width="2"/>
+  <!-- display -->
+  <rect x="140" y="150" width="136" height="80" rx="6" fill="#1b1612" stroke="#58504a" stroke-width="2"/>
+  <g fill="#58504a">
+    <rect x="150" y="162" width="36" height="16" rx="3" fill="#d6a056"/><rect x="190" y="162" width="36" height="16" rx="3"/><rect x="230" y="162" width="36" height="16" rx="3"/>
+    <rect x="150" y="184" width="36" height="16" rx="3"/><rect x="190" y="184" width="36" height="16" rx="3"/><rect x="230" y="184" width="36" height="16" rx="3"/>
+    <rect x="150" y="206" width="36" height="16" rx="3"/><rect x="190" y="206" width="36" height="16" rx="3"/><rect x="230" y="206" width="36" height="16" rx="3"/>
+  </g>
+  <!-- spout and recess -->
+  <rect x="122" y="290" width="172" height="98" rx="8" fill="#1f1a16"/>
+  <rect x="178" y="248" width="60" height="34" rx="6" fill="#c8c4bb" stroke="#23190f" stroke-width="2.5"/>
+  <rect x="192" y="282" width="8" height="10" fill="#9a958c" stroke="#23190f" stroke-width="2"/>
+  <rect x="216" y="282" width="8" height="10" fill="#9a958c" stroke="#23190f" stroke-width="2"/>
+  <path d="M170 328 H246 L240 376 Q239 382 233 382 H183 Q177 382 176 376 Z" fill="#fbf8f2" stroke="#23190f" stroke-width="2.5" stroke-linejoin="round"/>
+  <ellipse cx="208" cy="328" rx="38" ry="5" fill="#e9d6b8" stroke="#23190f" stroke-width="2"/>
+  <rect x="112" y="384" width="192" height="22" rx="4" fill="#c8c4bb" stroke="#23190f" stroke-width="2.5"/>
+  <path d="M126 395 H290" stroke="#23190f" stroke-width="1.5" stroke-dasharray="4 5"/>
+  <!-- milk tube -->
+  <path d="M238 266 C 280 266, 300 300, 352 300" fill="none" stroke="#fbf8f2" stroke-width="5" stroke-linecap="round"/>
+  <path d="M238 266 C 280 266, 300 300, 352 300" fill="none" stroke="#23190f" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+  <!-- fridge -->
+  <rect x="340" y="196" width="110" height="214" rx="12" fill="#3a332c" stroke="#23190f" stroke-width="3"/>
+  <rect x="352" y="210" width="86" height="164" rx="6" fill="#9ab3b6" stroke="#23190f" stroke-width="2"/>
+  <path d="M352 210 L438 210 L438 260 L352 330 Z" fill="#fff" opacity="0.18"/>
+  <rect x="368" y="262" width="54" height="96" rx="6" fill="#fbf8f2" stroke="#23190f" stroke-width="2"/>
+  <rect x="368" y="284" width="54" height="22" fill="#7d8566"/>
+  <rect x="428" y="270" width="6" height="40" rx="3" fill="#c8c4bb"/>
+  <circle cx="395" cy="390" r="5" fill="#d6a056"/>
+</svg>

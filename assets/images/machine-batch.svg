@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Batch filter brewer with thermal jug">
+  <rect width="500" height="500" fill="#ece3d2"/>
+  <rect x="0" y="392" width="500" height="108" fill="#e2d5bf"/>
+  <path d="M0 392 H500" stroke="#23190f" stroke-width="2" opacity="0.25"/>
+  <ellipse cx="250" cy="404" rx="150" ry="12" fill="#23190f" opacity="0.15"/>
+  <!-- back column -->
+  <rect x="170" y="78" width="160" height="62" rx="10" fill="#3a332c" stroke="#23190f" stroke-width="3"/>
+  <rect x="286" y="78" width="60" height="320" rx="10" fill="#2f2924" stroke="#23190f" stroke-width="3"/>
+  <rect x="300" y="96" width="32" height="260" rx="6" fill="#3a332c"/>
+  <path d="M316 110 V340" stroke="#58504a" stroke-width="2"/>
+  <!-- water tank window -->
+  <rect x="304" y="150" width="24" height="150" rx="4" fill="#9ab3b6" stroke="#23190f" stroke-width="2"/>
+  <rect x="304" y="200" width="24" height="100" rx="4" fill="#6f9195"/>
+  <!-- switch -->
+  <circle cx="316" cy="372" r="8" fill="#b2502a" stroke="#23190f" stroke-width="2"/>
+  <!-- filter basket -->
+  <path d="M172 140 H312 L298 200 Q296 208 288 208 H196 Q188 208 186 200 Z" fill="#d6a056" stroke="#23190f" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M184 158 H300" stroke="#23190f" stroke-width="2" opacity="0.35"/>
+  <!-- jug -->
+  <path d="M176 238 Q176 222 192 222 H262 Q278 222 278 238 V372 Q278 388 262 388 H192 Q176 388 176 372 Z" fill="#c8c4bb" stroke="#23190f" stroke-width="3"/>
+  <path d="M198 222 V388" stroke="#fff" stroke-width="6" opacity="0.45"/>
+  <path d="M176 262 H278" stroke="#23190f" stroke-width="2" opacity="0.4"/>
+  <path d="M278 252 q34 0 34 42 q0 40 -34 40" fill="none" stroke="#23190f" stroke-width="10" stroke-linecap="round"/>
+  <path d="M278 252 q34 0 34 42 q0 40 -34 40" fill="none" stroke="#3a332c" stroke-width="5" stroke-linecap="round"/>
+  <rect x="190" y="212" width="74" height="14" rx="4" fill="#2f2924" stroke="#23190f" stroke-width="2.5"/>
+  <!-- base -->
+  <rect x="160" y="388" width="186" height="14" rx="4" fill="#2f2924" stroke="#23190f" stroke-width="3"/>
+  <!-- cup -->
+  <path d="M60 352 H124 L118 396 Q117 402 111 402 H73 Q67 402 66 396 Z" fill="#fbf8f2" stroke="#23190f" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M124 362 q16 0 16 12 q0 12 -18 12" fill="none" stroke="#23190f" stroke-width="3"/>
+  <ellipse cx="92" cy="352" rx="32" ry="5" fill="#6b4126" stroke="#23190f" stroke-width="2.5"/>
+  <path d="M84 336 q-6 -10 0 -20 q6 -10 0 -20 M100 336 q-6 -10 0 -20 q6 -10 0 -20" fill="none" stroke="#23190f" stroke-width="2" stroke-linecap="round" opacity="0.35"/>
+</svg>

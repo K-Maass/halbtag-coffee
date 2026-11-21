@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Bag of Haus blend coffee beans">
+  <rect width="400" height="500" fill="#ece3d2"/>
+  <circle cx="300" cy="120" r="64" fill="#d6a056" opacity="0.55"/>
+  <ellipse cx="200" cy="452" rx="128" ry="14" fill="#23190f" opacity="0.14"/>
+  <!-- bag body -->
+  <path d="M104 108 L296 108 L310 438 Q310 448 300 448 L100 448 Q90 448 90 438 Z" fill="#cda77a" stroke="#23190f" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M262 108 L296 108 L310 438 Q310 448 300 448 L276 448 Z" fill="#b48e60"/>
+  <path d="M104 108 L296 108 L310 438 Q310 448 300 448 L100 448 Q90 448 90 438 Z" fill="none" stroke="#23190f" stroke-width="3" stroke-linejoin="round"/>
+  <!-- top seal -->
+  <path d="M100 74 L300 74 L298 112 L102 112 Z" fill="#bf996b" stroke="#23190f" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M106 84 H294" stroke="#23190f" stroke-width="1.5" stroke-dasharray="3 4" opacity="0.6"/>
+  <path d="M100 74 l8 -8 l8 8 l8 -8 l8 8 l8 -8 l8 8 l8 -8 l8 8 l8 -8 l8 8 l8 -8 l8 8 l8 -8 l8 8 l8 -8 l8 8 l8 -8 l8 8 l8 -8 l8 8 l8 -8 l8 8 l8 -8 l8 8" fill="#bf996b" stroke="#23190f" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- valve -->
+  <circle cx="200" cy="150" r="11" fill="#e3c9a2" stroke="#23190f" stroke-width="2.5"/>
+  <circle cx="200" cy="150" r="3.5" fill="#23190f"/>
+  <!-- label -->
+  <rect x="122" y="196" width="156" height="196" rx="6" fill="#fbf8f2" stroke="#23190f" stroke-width="2.5"/>
+  <rect x="122" y="196" width="156" height="44" rx="6" fill="#d6a056"/>
+  <rect x="122" y="226" width="156" height="14" fill="#d6a056"/>
+  <path d="M122 240 H278" stroke="#23190f" stroke-width="2.5"/>
+  <rect x="122" y="196" width="156" height="196" rx="6" fill="none" stroke="#23190f" stroke-width="2.5"/>
+  <circle cx="200" cy="218" r="11" fill="none" stroke="#23190f" stroke-width="2"/>
+  <path d="M189 218a11 11 0 0 1 22 0z" fill="#23190f"/>
+  <text x="200" y="272" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#5b4d3f">HALBTAG</text>
+  <text x="200" y="306" text-anchor="middle" font-family="Georgia, serif" font-size="27" fill="#23190f">Haus</text>
+  <text x="200" y="330" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b4d3f">Brazil · Colombia</text>
+  <path d="M146 350 H254" stroke="#dccfb9" stroke-width="1.5"/>
+  <text x="200" y="372" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11.5" letter-spacing="1" fill="#5b4d3f">NET 1 KG · ZÜRICH</text>
+  <!-- loose beans -->
+  <g fill="#4a2c1a" stroke="#23190f" stroke-width="2">
+    <ellipse cx="66" cy="444" rx="13" ry="9" transform="rotate(-25 66 444)"/>
+    <ellipse cx="338" cy="440" rx="13" ry="9" transform="rotate(30 338 440)"/>
+    <ellipse cx="358" cy="458" rx="12" ry="8.5" transform="rotate(-10 358 458)"/>
+  </g>
+  <g fill="none" stroke="#c89a6c" stroke-width="1.8" stroke-linecap="round">
+    <path d="M57 448 q9 -2 18 -8"/>
+    <path d="M329 434 q10 2 18 12"/>
+    <path d="M347 460 q11 -1 22 -4"/>
+  </g>
+</svg>
